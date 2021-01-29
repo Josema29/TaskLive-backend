@@ -2,6 +2,12 @@
 
 Backen para nuestra app TaskLive de desarrollo de aplicaciones web
 
+# Integrantes del Equipo
+
+    Jose Manuel Patron
+    Armando Valdivieso
+    Mauro Zapata
+
 # Funcionamiento
 https://tasklive-backend.herokuapp.com/
    Se encuentra desplegada con Heroku en el siguiente link https://tasklive-backend.herokuapp.com/
